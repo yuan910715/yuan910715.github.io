@@ -1,6 +1,7 @@
 [
     {"mixkeys":["0x80","0x63"],"description_zh":"复制,CV工程师必备","description_en":"Copy, a must for CV engineers"},
     {"mixkeys":["0x80","0x76"],"description_zh":"粘贴,CV工程师必备","description_en":"Paste, a must for CV engineers"},
+    {"mixkeys":["0x83","0x76"],"description_zh":"Windows粘贴,CV工程师必备","description_en":"Windows paste, a must for CV engineers"},
     {"mixkeys":["0x83","0x6C"],"description_zh":"锁屏,下班走人!!","description_en":"Lock screen, go home!!"},
     {"mixkeys":["0x80","0x83","0x71"],"description_zh":"Mac锁屏,下班走人!!","description_en":"Lock screen for MacOS, go home!!"},
     {"mixkeys":["0x83","0x63"],"description_zh":"Mac复制,用苹果的CV工程师必备","description_en":"Copy for MacOS, a must for CV engineers"},
@@ -27,5 +28,7 @@
     {"mixkeys":["0x80","0xD5"],"description_zh":"跳到页尾","description_en":"Go to end of page"},
     {"mixkeys":["0x81","0x67"],"description_zh":"vi跳到页尾","description_en":"Go to end of page for Vi"},
     {"mixkeys":["0x67","0x67"],"description_zh":"vi跳到页首","description_en":"Go to top of page for Vi"},
-    {"mixkeys":["0x80","0x81","0xB1"],"description_zh":"打开任务管理器","description_en":"Open task manager"}
+    {"mixkeys":["0x80","0x81","0xB1"],"description_zh":"打开任务管理器","description_en":"Open task manager"},
+    {"mixkeys":["0x82","0x20","0x78"],"description_zh":"最大化窗口","description_en":"Maximize the window"},
+    {"mixkeys":["0x82","0x20","0x72"],"description_zh":"还原窗口","description_en":"Restore the window size"}
 ]
